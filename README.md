@@ -1,4 +1,4 @@
-# 🛒 Evaluasi Efektivitas Promo JSM & Deteksi Kebocoran Margin akibat Reseller di Alfamart
+# Evaluasi Efektivitas Promo JSM & Deteksi Kebocoran Margin akibat Reseller di Alfamart
 
 ## 1. Project Overview
 Proyek ini menganalisis data historis transaksi kasir (*Point of Sale*) Alfamart untuk mengevaluasi efektivitas strategi **Promo JSM (Jumat, Sabtu, Minggu)** serta mengidentifikasi risiko **kebocoran margin (*margin leakage*)** akibat aktivitas pembelian borongan oleh *reseller*/tengkulak.
