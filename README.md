@@ -79,10 +79,6 @@ Analisis ini menggunakan dataset historis transaksi kasir periode **Januari 2021
 ---
 
 ## 6. Contact
-- **Name:** Thomas Dany Haryanto
-- **Email:** thomasdany38@gmail.com
-- **LinkedIn:** [Thomas Dany Haryanto](www.linkedin.com/in/thomas-dany-haryanto)
-
-- - **Name:** 
-- **Email:** 
-- **LinkedIn:** 
+- **Name:** Innarcaya Nadiar
+- **Email:** innarnadiar@gmail.com
+- **LinkedIn:** [Inna Nadiar]
